@@ -3,7 +3,7 @@
 Docstring for Lambda Square
     Program contains one lambda function which accepts one parameter and return power of two.
 """
-Square = lambda No : No ** 2
+Square = lambda No : 2 ** No
 
 def main():
     try:
