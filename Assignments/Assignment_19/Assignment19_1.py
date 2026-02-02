@@ -3,13 +3,13 @@
 Docstring for Lambda Square
     Program contains one lambda function which accepts one parameter and return power of two.
 """
-Square = lambda No : 2 ** No
+PowerOfTwo = lambda No : 2 ** No
 
 def main():
     try:
         print("Enter the number:", end=" ")
         No = int(input())
-        Ret = Square(No)
+        Ret = PowerOfTwo(No)
         print("Power of two for given number is:", Ret)
     except ValueError as vobj:
         print("Input value should be numeric")
