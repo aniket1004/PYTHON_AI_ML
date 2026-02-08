@@ -1,0 +1,2100 @@
+--------------------------------------------------
+----- Marvellous Platform Surveillance System ----
+Log created at : Sun Feb  8 21:13:07 2026
+--------------------------------------------------
+
+------------- System Report ------------
+CPU Usage : 4.4 %
+--------------------------------------------------
+RAM Usage : 65.4 %
+--------------------------------------------------
+Disk Usage Report
+--------------------------------------------------
+/ -> 4.5 % used
+/System/Volumes/VM -> 0.0 % used
+/System/Volumes/Preboot -> 3.0 % used
+/System/Volumes/Update -> 0.0 % used
+/System/Volumes/xarts -> 1.2 % used
+/System/Volumes/iSCPreboot -> 1.2 % used
+/System/Volumes/Hardware -> 0.3 % used
+/System/Volumes/Data -> 45.0 % used
+--------------------------------------------------
+Network Usage Report
+Sent : 0.10 MB
+Received : 0.10 MB
+--------------------------------------------------
+PID : 400
+Name : loginwindow
+Username : root
+Status : sleeping
+Start time : 2026-02-08 21:09:08
+CPU % : 0.00
+Memory % : 0.41
+--------------------------------------------------
+PID : 566
+Name : distnoted
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 567
+Name : cfprefsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 576
+Name : UserEventAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.28
+--------------------------------------------------
+PID : 581
+Name : CoreServicesUIAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.33
+--------------------------------------------------
+PID : 582
+Name : universalaccessd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 583
+Name : containermanagerd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 584
+Name : WindowManager
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.29
+--------------------------------------------------
+PID : 585
+Name : pboard
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 586
+Name : knowledge-agent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.26
+--------------------------------------------------
+PID : 587
+Name : com.apple.sbd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 589
+Name : BiomeAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 590
+Name : talagentd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.21
+--------------------------------------------------
+PID : 591
+Name : Dock
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.27
+--------------------------------------------------
+PID : 592
+Name : lsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 593
+Name : ControlCenter
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.81
+--------------------------------------------------
+PID : 594
+Name : linkd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.28
+--------------------------------------------------
+PID : 595
+Name : SystemUIServer
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.53
+--------------------------------------------------
+PID : 596
+Name : Finder
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 23.10
+Memory % : 2.14
+--------------------------------------------------
+PID : 598
+Name : secd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.22
+--------------------------------------------------
+PID : 601
+Name : cloudd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.27
+--------------------------------------------------
+PID : 602
+Name : AccessibilityUIServer
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.49
+--------------------------------------------------
+PID : 603
+Name : accountsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.26
+--------------------------------------------------
+PID : 604
+Name : dmd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 605
+Name : com.apple.quicklook.ThumbnailsAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.28
+--------------------------------------------------
+PID : 606
+Name : QuickLookUIService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 607
+Name : csnameddatad
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 608
+Name : secinitd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 610
+Name : siriactionsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.46
+--------------------------------------------------
+PID : 611
+Name : WallpaperAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.30
+--------------------------------------------------
+PID : 613
+Name : com.apple.hiservices-xpcservice
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 614
+Name : sharedfilelistd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.22
+--------------------------------------------------
+PID : 615
+Name : CoreLocationAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.46
+--------------------------------------------------
+PID : 616
+Name : tccd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 617
+Name : suggestd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.31
+--------------------------------------------------
+PID : 618
+Name : sociallayerd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 619
+Name : calaccessd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.26
+--------------------------------------------------
+PID : 620
+Name : fileproviderd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 621
+Name : pkd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 622
+Name : AMPDeviceDiscoveryAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 623
+Name : trustd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 624
+Name : callservicesd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.35
+--------------------------------------------------
+PID : 625
+Name : iconservicesagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.58
+--------------------------------------------------
+PID : 626
+Name : bird
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 627
+Name : ContinuityCaptureAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 628
+Name : usernotificationsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 629
+Name : fontd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 630
+Name : intelligentroutingd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 631
+Name : audioaccessoryd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:11
+CPU % : 0.00
+Memory % : 0.27
+--------------------------------------------------
+PID : 632
+Name : mobiletimerd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 633
+Name : donotdisturbd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 634
+Name : replayd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 635
+Name : AudioComponentRegistrar
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 636
+Name : communicationtrustd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 637
+Name : identityservicesd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.38
+--------------------------------------------------
+PID : 638
+Name : fontworker
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 639
+Name : ViewBridgeAuxiliary
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 640
+Name : chronod
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.36
+--------------------------------------------------
+PID : 641
+Name : CMFSyncAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 643
+Name : corespotlightd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.95
+--------------------------------------------------
+PID : 644
+Name : syncdefaultsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 646
+Name : heard
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.35
+--------------------------------------------------
+PID : 647
+Name : corespeechd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 648
+Name : CredentialStore
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 649
+Name : routined
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.24
+--------------------------------------------------
+PID : 650
+Name : axassetsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 651
+Name : ContextStoreAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.27
+--------------------------------------------------
+PID : 655
+Name : NotificationCenter
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.53
+--------------------------------------------------
+PID : 656
+Name : imklaunchagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 658
+Name : Siri
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.30
+--------------------------------------------------
+PID : 659
+Name : icdd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 661
+Name : appplaceholdersyncd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 662
+Name : usernoted
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 663
+Name : askpermissiond
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.10
+Memory % : 0.11
+--------------------------------------------------
+PID : 666
+Name : sharingd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.55
+--------------------------------------------------
+PID : 667
+Name : mobilerepaird
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 668
+Name : ManagedSettingsAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 669
+Name : AirPlayUIAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 670
+Name : imagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.36
+--------------------------------------------------
+PID : 671
+Name : diagnostics_agent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 672
+Name : TextInputMenuAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.64
+--------------------------------------------------
+PID : 673
+Name : remindd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.29
+--------------------------------------------------
+PID : 674
+Name : amsaccountsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 675
+Name : rapportd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.24
+--------------------------------------------------
+PID : 677
+Name : findmylocateagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 680
+Name : deleted
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 681
+Name : extensionkitservice
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 683
+Name : localizationswitcherd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 685
+Name : PlugInLibraryService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 686
+Name : SoftwareUpdateNotificationManager
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.38
+--------------------------------------------------
+PID : 688
+Name : ScreenTimeAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 689
+Name : TextInputSwitcher
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.28
+--------------------------------------------------
+PID : 690
+Name : contactsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 691
+Name : cdpd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 692
+Name : WallpaperImageExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 693
+Name : TrustedPeersHelper
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 695
+Name : pbs
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 697
+Name : liveactivitiesd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 698
+Name : ctkd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 699
+Name : replicatord
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 701
+Name : coreauthd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 706
+Name : CommCenter
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 708
+Name : transparencyd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.24
+--------------------------------------------------
+PID : 709
+Name : neagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 710
+Name : APFSUserAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 711
+Name : WallpaperAerialsExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:12
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 713
+Name : CursorUIViewService
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.30
+--------------------------------------------------
+PID : 714
+Name : Spotlight
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 1.23
+--------------------------------------------------
+PID : 715
+Name : duetexpertd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.44
+--------------------------------------------------
+PID : 717
+Name : StatusKitAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 718
+Name : nsurlsessiond
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 719
+Name : PAH_Extension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 720
+Name : WiFiAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.38
+--------------------------------------------------
+PID : 722
+Name : IMDPersistenceAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 723
+Name : com.apple.geod
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 725
+Name : extensionkitservice
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 726
+Name : parsecd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 727
+Name : useractivityd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 728
+Name : com.apple.dock.extra
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.22
+--------------------------------------------------
+PID : 729
+Name : ctkahp
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 731
+Name : JournalWidgets
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 732
+Name : homed
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.46
+--------------------------------------------------
+PID : 733
+Name : mediaanalysisd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.47
+--------------------------------------------------
+PID : 734
+Name : frauddefensed
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:13
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 736
+Name : assistant_cdmd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 737
+Name : familycircled
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 738
+Name : akd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 740
+Name : photolibraryd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 741
+Name : ScopedBookmarkAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 742
+Name : followupd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 743
+Name : WorldClockWidget
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 744
+Name : itunescloudd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 745
+Name : AppSSOAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.43
+--------------------------------------------------
+PID : 746
+Name : localspeechrecognition
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.26
+--------------------------------------------------
+PID : 747
+Name : WiFiCloudAssetsXPCService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 748
+Name : UIKitSystem
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.27
+--------------------------------------------------
+PID : 749
+Name : networkserviceproxy
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 751
+Name : PlugInLibraryService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 752
+Name : triald
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 753
+Name : com.apple.FaceTime.FTConversationService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 754
+Name : searchpartyuseragent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.25
+--------------------------------------------------
+PID : 755
+Name : amsengagementd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 756
+Name : TipsWidgetExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 757
+Name : sirittsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 758
+Name : localspeechrecognition
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 759
+Name : PlugInLibraryService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 760
+Name : maild
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 761
+Name : StocksWidget
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.50
+--------------------------------------------------
+PID : 762
+Name : translationd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 763
+Name : FindMyWidgetItems
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:14
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 766
+Name : generativeexperiencesd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:15
+CPU % : 0.00
+Memory % : 0.24
+--------------------------------------------------
+PID : 767
+Name : financed
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:15
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 768
+Name : CloudTelemetryService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:15
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 770
+Name : contactsdonationagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:15
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 771
+Name : FortiClientAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:15
+CPU % : 0.00
+Memory % : 0.54
+--------------------------------------------------
+PID : 773
+Name : localspeechrecognition
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:15
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 774
+Name : ContextService
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:15
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 776
+Name : mediaremoteagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 777
+Name : avconferenced
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 778
+Name : swtransparencyd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 779
+Name : FeatureAccessAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 780
+Name : ProtectedCloudKeySyncing
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 781
+Name : postersyncd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 782
+Name : recentsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 784
+Name : com.apple.audio.SandboxHelper
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 791
+Name : WeatherWidget
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.44
+--------------------------------------------------
+PID : 792
+Name : CloudTelemetryService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:16
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 793
+Name : photoanalysisd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 795
+Name : appleaccountd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 796
+Name : ScreenTimeWidgetExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.34
+--------------------------------------------------
+PID : 797
+Name : CalendarWidgetExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.28
+--------------------------------------------------
+PID : 798
+Name : assistantd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.43
+--------------------------------------------------
+PID : 801
+Name : parsec-fbf
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 802
+Name : com.apple.audio.SandboxHelper
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 805
+Name : milod
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 806
+Name : extensionkitservice
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 812
+Name : commerce
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 820
+Name : FctMiscAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:17
+CPU % : 0.20
+Memory % : 0.58
+--------------------------------------------------
+PID : 822
+Name : BatteriesAvocadoWidgetExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 823
+Name : TrialArchivingService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 824
+Name : FortiTray
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.56
+--------------------------------------------------
+PID : 826
+Name : SafariWidgetExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 828
+Name : JournalWidgetsSecure
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:17
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 835
+Name : HomeEnergyWidgetsExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.21
+--------------------------------------------------
+PID : 836
+Name : spotlightknowledged
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 838
+Name : HomeWidget
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.21
+--------------------------------------------------
+PID : 839
+Name : ShortcutsWidgetExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.29
+--------------------------------------------------
+PID : 840
+Name : FindMyWidgetPeople
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 841
+Name : PodcastsWidget
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 842
+Name : com.apple.Notes.WidgetExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 843
+Name : siriinferenced
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.52
+--------------------------------------------------
+PID : 844
+Name : siriknowledged
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.24
+--------------------------------------------------
+PID : 845
+Name : PhotosReliveWidget
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 846
+Name : PeopleWidget_macOSExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 847
+Name : CoreThreadCommissionerServiced
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 848
+Name : SetStoreUpdateService
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 849
+Name : RemindersWidgetExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:18
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 868
+Name : com.apple.audio.SandboxHelper
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:19
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 869
+Name : voicebankingd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:19
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 870
+Name : SiriAUSP
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:19
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 871
+Name : MauiAUSP
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:19
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 872
+Name : KonaSynthesizer
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:19
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 873
+Name : WardaSynthesizer
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:19
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 874
+Name : MacinTalkAUSP
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:19
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 875
+Name : inputanalyticsd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:19
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 876
+Name : gamecontrolleragentd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:19
+CPU % : 0.20
+Memory % : 0.10
+--------------------------------------------------
+PID : 880
+Name : ModelCatalogAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:20
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 884
+Name : com.apple.audio.SandboxHelper
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:21
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 887
+Name : AUCrashHandlerService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:21
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 888
+Name : com.apple.audio.SandboxHelper
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:21
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 889
+Name : com.apple.audio.SandboxHelper
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:21
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 890
+Name : com.apple.audio.SandboxHelper
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:21
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 891
+Name : com.apple.audio.SandboxHelper
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:21
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 893
+Name : cloudphotod
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:21
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 898
+Name : geodMachServiceBridge
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:22
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 900
+Name : appstoreagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:22
+CPU % : 0.00
+Memory % : 0.30
+--------------------------------------------------
+PID : 905
+Name : mdbulkimport
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:22
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 919
+Name : IMTransferAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:26
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 920
+Name : StocksKitService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:26
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 921
+Name : AMPArtworkAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:26
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 929
+Name : IntelligencePlatformComputeService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:26
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 930
+Name : intelligencecontextd
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:27
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 931
+Name : iCloudNotificationAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:27
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 932
+Name : XProtectPluginService
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:28
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 936
+Name : lockdownmoded
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:31
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 937
+Name : Electron
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:32
+CPU % : 0.00
+Memory % : 2.47
+--------------------------------------------------
+PID : 938
+Name : storekitagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:33
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 940
+Name : SiriSuggestionsBookkeepingService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:33
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 941
+Name : chrome_crashpad_handler
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:33
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 942
+Name : Code Helper (GPU)
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:33
+CPU % : 5.60
+Memory % : 1.12
+--------------------------------------------------
+PID : 943
+Name : Code Helper
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:33
+CPU % : 0.00
+Memory % : 0.56
+--------------------------------------------------
+PID : 944
+Name : Code Helper (Renderer)
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:34
+CPU % : 7.60
+Memory % : 4.32
+--------------------------------------------------
+PID : 948
+Name : Code Helper
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:35
+CPU % : 0.40
+Memory % : 0.95
+--------------------------------------------------
+PID : 949
+Name : Code Helper (Plugin)
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:35
+CPU % : 0.40
+Memory % : 5.38
+--------------------------------------------------
+PID : 950
+Name : Code Helper
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:35
+CPU % : 0.30
+Memory % : 1.17
+--------------------------------------------------
+PID : 951
+Name : Code Helper
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:35
+CPU % : 0.00
+Memory % : 0.81
+--------------------------------------------------
+PID : 952
+Name : ThemeWidgetControlViewService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:36
+CPU % : 0.00
+Memory % : 0.24
+--------------------------------------------------
+PID : 957
+Name : zsh
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:37
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 965
+Name : AppPredictionIntentsHelperService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:39
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 966
+Name : pet
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:39
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 986
+Name : Code Helper (Plugin)
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:39
+CPU % : 0.00
+Memory % : 0.72
+--------------------------------------------------
+PID : 991
+Name : zsh
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:09:40
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1059
+Name : Code Helper (Plugin)
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:42
+CPU % : 0.00
+Memory % : 0.90
+--------------------------------------------------
+PID : 1069
+Name : Code Helper (Plugin)
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:42
+CPU % : 0.00
+Memory % : 7.25
+--------------------------------------------------
+PID : 1070
+Name : ShortcutsViewService
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:09:43
+CPU % : 0.00
+Memory % : 0.33
+--------------------------------------------------
+PID : 1091
+Name : extensionkitservice
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:10:02
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 1092
+Name : CalendarIntentsExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:10:02
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 1093
+Name : SafariLinkExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:10:02
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 1094
+Name : MessagesActionExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:10:02
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 1095
+Name : PlugInLibraryService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:10:06
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 1097
+Name : ThemeWidgetControlViewService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:10:08
+CPU % : 0.00
+Memory % : 0.25
+--------------------------------------------------
+PID : 1098
+Name : extensionkitservice
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:10:08
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 1099
+Name : PackageThumbnailExtension
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:10:08
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 1129
+Name : UsageTrackingAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:10:11
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 1152
+Name : SiriNCService
+Username : aniket
+Status : sleeping
+Start time : 2026-02-08 21:10:15
+CPU % : 0.00
+Memory % : 0.32
+--------------------------------------------------
+PID : 1175
+Name : analyticsagent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:11:19
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 1179
+Name : fudHelperAgent
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:11:36
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 1201
+Name : Python
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:12:07
+CPU % : 24.70
+Memory % : 0.24
+--------------------------------------------------
+PID : 1212
+Name : mdworker_shared
+Username : aniket
+Status : running
+Start time : 2026-02-08 21:12:36
+CPU % : 0.00
+Memory % : 0.25
+--------------------------------------------------
+--------------------------------------------------
+---------------- End of Log File -----------------
+--------------------------------------------------
