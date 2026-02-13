@@ -82,6 +82,53 @@ def ProcessLog(FolderName, ReceiverEmail):
                 )
         fobj.write(Border + Border + Border + Border + "\n")
 
+    fobj.write("\n\nSummary of log file\n")
+    fobj.write(f"Total Processes : {len(Data)}\n\n")
+
+    fobj.write("TOP 10 CPU Usage Processes")
+    fobj.write("\n\n{:<10} {:<50} {:<15} {:<25} {:<20} {:<15}\n".format("PID", "Name", "Username", "CPU Percent", "Status", "Create Time"))
+    top_cpu_usage_data = sorted(Data, key = lambda info : info.get("cpu_percent"), reverse= True)
+    top_cpu_usage_data = top_cpu_usage_data[:10]
+    for info in top_cpu_usage_data:
+        fobj.write("{:<10} {:<50} {:<15} {:<25} {:<20} {:<15}\n"
+                .format(info.get("pid"), info.get("name"), info.get("username"), info.get("cpu_percent"),
+                        info.get("status"),info.get("create_time"))
+                )
+        fobj.write(Border + Border + Border + Border + "\n")
+
+    fobj.write("\n\nTOP 10 Memory Usage Processes")
+    fobj.write("\n\n{:<10} {:<50} {:<15} {:<25} {:<20} {:<15}\n".format("PID", "Name", "Username", "Memory Percent", "Status", "Create Time"))
+    top_memory_usage_data = sorted(Data, key = lambda info : info.get("memory_percent"), reverse= True)
+    top_memory_usage_data = top_memory_usage_data[:10]
+    for info in top_memory_usage_data:
+        fobj.write("{:<10} {:<50} {:<15} {:<25} {:<20} {:<15}\n"
+                .format(info.get("pid"), info.get("name"), info.get("username"), info.get("memory_percent"),
+                        info.get("status"),info.get("create_time"))
+                )
+        fobj.write(Border + Border + Border + Border + "\n")
+
+    fobj.write("\n\nTOP 10 Thread Count Processes")
+    fobj.write("\n\n{:<10} {:<50} {:<15} {:<25} {:<20} {:<15}\n".format("PID", "Name", "Username", "No of Threads", "Status", "Create Time"))
+    top_num_of_threads_data = sorted(Data, key = lambda info : info.get("no_of_threads"), reverse= True)
+    top_num_of_threads_data = top_num_of_threads_data[:10]
+    for info in top_num_of_threads_data:
+        fobj.write("{:<10} {:<50} {:<15} {:<25} {:<20} {:<15}\n"
+                .format(info.get("pid"), info.get("name"), info.get("username"), info.get("no_of_threads"),
+                        info.get("status"),info.get("create_time"))
+                )
+        fobj.write(Border + Border + Border + Border + "\n")
+
+    fobj.write("\n\nTOP 10 Most Open File Processes Processes")
+    fobj.write("\n\n{:<10} {:<50} {:<15} {:<25} {:<20} {:<15}\n".format("PID", "Name", "Username", "Open files", "Status", "Create Time"))
+    top_open_files_data = sorted(Data, key = lambda info : info.get("no_of_open_files"), reverse= True)
+    top_open_files_data = top_open_files_data[:10]
+    for info in top_open_files_data:
+        fobj.write("{:<10} {:<50} {:<15} {:<25} {:<20} {:<15}\n"
+                .format(info.get("pid"), info.get("name"), info.get("username"), info.get("no_of_open_files"),
+                        info.get("status"),info.get("create_time"))
+                )
+        fobj.write(Border + Border + Border + Border + "\n")
+
     fobj.write(Border + "\n")
     fobj.write("---------------- End of Log File -----------------" + "\n")
     fobj.write(Border + "\n")
@@ -98,16 +145,10 @@ def ProcessLog(FolderName, ReceiverEmail):
 
     subject = "Platform Surveillance System Alert"
 
-    top_memory_usage_header = "\n\n{:<10} {:<50} {:<15} {:<25} {:<20} {:<20} {:<20} {:<15}\n".format("PID", "Name", "Username", "Memory Percent", "RSS (in MB)", "VMS (in MB)", "Status", "Create Time")
-              
-                
     body = f"""
     Hello,
-    Summary of attached log of Platform Surveillance System Script.
+    Please find attached log of Platform Surveillance System Script.
     
-    Total Processes : {len(Data)}
-    Top Memory Usage Processes
-    {top_memory_usage_header}
     Regards,
     Aniket Dhole
     """
