@@ -1,0 +1,660 @@
+--------------------------------------------------
+----- Marvellous Platform Surviellance System ----
+Log created at : Fri Feb 13 17:16:39 2026
+--------------------------------------------------
+
+------------------ System Report -----------------
+CPU Usage : 11.0 %
+--------------------------------------------------
+RAM Usage : 90.4 %
+--------------------------------------------------
+Disk Usage Report
+C:\ -> 78.2 %
+D:\ -> 27.4 %
+--------------------------------------------------
+Network Usage Report
+Sent : 24490.65 MB
+Received : 192711.10 MB
+--------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
+
+PID   NAME                                USERNAME                  STATUS     CREATE TIME               CPU PERCENT MEMORY PERCENT  THREADS RUNNING      OPEN FILES      RSS             VMS             
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0     System Idle Process                 NT AUTHORITY\SYSTEM       running    1970-01-01 05:30:00       1757.40    0.00            60                   0               0.01 MB         0.06 MB         
+
+4     System                              NT AUTHORITY\SYSTEM       running    1970-01-01 05:30:00       3.90       0.02            372                  0               3.84 MB         0.05 MB         
+
+500   msedgewebview2.exe                  WYSE\501000704            running    2026-02-11 05:45:45       0.00       0.23            59                   161             37.52 MB        93.05 MB        
+
+840   ulaa.exe                            WYSE\501000704            running    2026-02-09 15:43:11       0.00       0.11            33                   33              17.05 MB        79.85 MB        
+
+1384  svchost.exe                         WYSE\501000704            running    2025-12-11 09:43:21       0.00       0.07            6                    15              10.85 MB        11.14 MB        
+
+1528  svchost.exe                         WYSE\501000704            running    2025-12-11 09:43:23       0.00       0.03            5                    7               4.12 MB         5.91 MB         
+
+1620  O+Connect.exe                       WYSE\501000704            running    2026-01-31 09:59:21       0.10       0.26            31                   22              42.43 MB        62.92 MB        
+
+1680  dllhost.exe                         WYSE\501000704            running    2026-02-07 13:15:10       0.10       0.01            4                    1               1.05 MB         2.86 MB         
+
+2112  cmd.exe                             WYSE\501000704            running    2025-12-23 14:32:32       0.00       0.00            1                    1               0.71 MB         2.26 MB         
+
+2388  Code.exe                            WYSE\501000704            running    2026-02-06 12:30:07       0.00       0.00            9                    23              0.02 MB         90.11 MB        
+
+2832  RuntimeBroker.exe                   WYSE\501000704            running    2025-12-11 13:37:45       0.00       0.03            4                    6               4.42 MB         12.29 MB        
+
+4544  olkexthost.exe                      WYSE\501000704            running    2026-02-13 13:46:04       0.00       0.00            5                    2               0.77 MB         3.39 MB         
+
+4576  taskhostw.exe                       WYSE\501000704            running    2025-12-11 09:43:21       0.00       0.05            7                    10              7.84 MB         21.72 MB        
+
+4640  Code.exe                            WYSE\501000704            running    2026-02-09 15:33:22       0.00       0.11            27                   8               17.16 MB        91.09 MB        
+
+4784  svchost.exe                         WYSE\501000704            running    2025-12-11 09:43:21       0.00       0.10            6                    10              16.46 MB        22.98 MB        
+
+4900  Code.exe                            WYSE\501000704            running    2025-12-23 14:32:20       0.00       0.01            8                    13              1.62 MB         29.62 MB        
+
+4944  cmd.exe                             WYSE\501000704            running    2025-12-23 14:37:25       0.00       0.00            1                    14              0.70 MB         2.55 MB         
+
+4960  svchost.exe                         WYSE\501000704            running    2025-12-11 09:43:21       0.00       0.01            4                    1               1.79 MB         2.45 MB         
+
+5796  sihost.exe                          WYSE\501000704            running    2025-12-11 09:43:21       0.00       0.12            14                   10              18.77 MB        26.60 MB        
+
+6820  OneDrive.Sync.Service.exe           WYSE\501000704            running    2026-02-12 20:15:35       0.00       0.11            19                   20              17.88 MB        67.85 MB        
+
+7184  UserOOBEBroker.exe                  WYSE\501000704            running    2025-12-11 09:43:27       0.00       0.00            1                    2               0.03 MB         2.85 MB         
+
+7296  Code.exe                            WYSE\501000704            running    2025-12-24 10:20:59       0.00       0.01            9                    11              1.57 MB         27.17 MB        
+
+8036  node.exe                            WYSE\501000704            running    2026-01-24 12:08:00       0.00       0.00            13                   2               0.02 MB         65.11 MB        
+
+8084  msedge.exe                          WYSE\501000704            running    2026-02-12 14:43:08       0.00       0.02            11                   7               3.45 MB         9.19 MB         
+
+9056  ulaa.exe                            WYSE\501000704            running    2026-02-12 14:40:32       0.00       0.02            17                   21              3.46 MB         21.64 MB        
+
+9176  svchost.exe                         WYSE\501000704            running    2025-12-11 09:48:38       0.00       0.03            6                    6               4.93 MB         4.97 MB         
+
+10004 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:06       0.30       1.96            29                   33              317.56 MB       746.21 MB       
+
+10192 Code.exe                            WYSE\501000704            running    2025-12-23 14:32:15       0.10       0.05            8                    8               8.06 MB         427.58 MB       
+
+10320 dllhost.exe                         WYSE\501000704            running    2025-12-11 09:43:23       0.00       0.01            4                    2               1.67 MB         3.20 MB         
+
+10456 Code.exe                            WYSE\501000704            running    2025-12-24 10:20:55       0.00       0.95            31                   69              154.46 MB       263.73 MB       
+
+10468 svchost.exe                         WYSE\501000704            running    2025-12-11 09:43:24       0.00       0.01            3                    9               1.80 MB         4.22 MB         
+
+10724 cmd.exe                             WYSE\501000704            running    2026-01-30 14:53:40       0.00       0.00            1                    1               0.02 MB         2.89 MB         
+
+10780 svchost.exe                         WYSE\501000704            running    2025-12-11 09:43:24       0.00       0.06            9                    11              10.51 MB        289.29 MB       
+
+11056 Code.exe                            WYSE\501000704            running    2025-12-23 14:32:13       0.20       0.35            29                   28              56.69 MB        532.44 MB       
+
+11516 msedgewebview2.exe                  WYSE\501000704            running    2025-12-11 09:43:25       0.00       0.17            48                   102             27.08 MB        49.43 MB        
+
+11636 msedgewebview2.exe                  WYSE\501000704            running    2025-12-11 09:43:25       0.00       0.01            8                    1               0.95 MB         2.30 MB         
+
+11804 conhost.exe                         WYSE\501000704            running    2026-01-30 14:53:00       0.00       0.00            5                    1               0.30 MB         1.41 MB         
+
+11832 codex.exe                           WYSE\501000704            running    2026-02-03 10:30:13       0.00       0.02            25                   21              3.92 MB         19.26 MB        
+
+11868 powershell.exe                      WYSE\501000704            running    2026-02-09 15:33:24       0.00       0.37            9                    7               59.50 MB        65.82 MB        
+
+12216 ShellHost.exe                       WYSE\501000704            running    2026-02-02 10:34:08       0.00       0.03            7                    6               4.45 MB         16.29 MB        
+
+12332 msedgewebview2.exe                  WYSE\501000704            running    2025-12-11 09:43:25       0.00       0.05            22                   19              7.38 MB         14.43 MB        
+
+12496 msedgewebview2.exe                  WYSE\501000704            running    2025-12-11 09:43:25       0.00       0.01            10                   20              1.92 MB         9.20 MB         
+
+12664 Code.exe                            WYSE\501000704            running    2026-02-06 12:30:28       0.00       0.00            9                    17              0.02 MB         68.13 MB        
+
+12736 msedgewebview2.exe                  WYSE\501000704            running    2025-12-11 09:43:25       0.00       0.02            34                   31              3.91 MB         87.54 MB        
+
+12896 Code.exe                            WYSE\501000704            running    2025-12-24 10:20:57       0.10       0.05            27                   8               7.37 MB         87.75 MB        
+
+14312 powershell.exe                      WYSE\501000704            running    2025-12-23 14:32:14       0.10       0.01            9                    6               1.12 MB         62.17 MB        
+
+14760 SecurityHealthSystray.exe           WYSE\501000704            running    2025-12-11 09:43:47       0.00       0.01            1                    1               1.19 MB         2.24 MB         
+
+14808 Code.exe                            WYSE\501000704            running    2025-12-24 10:21:03       0.00       0.01            12                   13              1.49 MB         71.02 MB        
+
+14896 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:09       0.00       0.01            13                   10              1.34 MB         79.62 MB        
+
+15000 Code.exe                            WYSE\501000704            running    2025-12-24 10:20:58       0.00       0.01            8                    8               1.52 MB         25.68 MB        
+
+15184 conhost.exe                         WYSE\501000704            running    2025-12-23 14:32:14       0.00       0.00            5                    1               0.29 MB         1.40 MB         
+
+15552 Code.exe                            WYSE\501000704            running    2025-12-23 09:49:04       0.00       0.18            25                   8               28.41 MB        148.92 MB       
+
+15636 python3.13.exe                      WYSE\501000704            running    2026-02-13 17:15:25       84.40      1.79            6                    2               290.23 MB       271.88 MB       
+
+15992 node.exe                            WYSE\501000704            running    2025-12-23 14:37:25       0.00       0.07            13                   14              11.59 MB        865.98 MB       
+
+16180 msedge.exe                          WYSE\501000704            running    2026-02-11 13:10:52       0.00       0.03            21                   21              5.48 MB         31.54 MB        
+
+16388 ulaa.exe                            WYSE\501000704            running    2026-02-09 15:43:11       0.00       0.01            15                   21              2.12 MB         17.84 MB        
+
+16684 Code.exe                            WYSE\501000704            running    2025-12-24 10:20:56       0.00       0.34            27                   27              54.54 MB        471.43 MB       
+
+16952 Code.exe                            WYSE\501000704            running    2025-12-23 14:32:13       0.00       0.04            27                   8               7.20 MB         100.33 MB       
+
+17176 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 15:31:23       0.00       0.00            9                    15              0.05 MB         9.07 MB         
+
+17504 Code.exe                            WYSE\501000704            running    2026-02-09 15:41:15       0.00       0.16            29                   66              26.16 MB        131.78 MB       
+
+17884 conhost.exe                         WYSE\501000704            running    2025-12-24 10:20:57       0.00       0.00            5                    1               0.29 MB         1.41 MB         
+
+18364 chrome.exe                          WYSE\501000704            running    2026-02-13 16:55:58       0.70       1.88            39                   51              304.22 MB       296.07 MB       
+
+18696 AppActions.exe                      WYSE\501000704            running    2025-12-11 09:53:22       0.00       0.03            7                    2               5.04 MB         12.47 MB        
+
+18828 conhost.exe                         WYSE\501000704            running    2026-01-30 14:34:07       0.00       0.00            5                    1               0.30 MB         1.43 MB         
+
+18988 conhost.exe                         WYSE\501000704            running    2026-02-13 17:07:34       0.10       0.05            5                    1               7.96 MB         1.43 MB         
+
+19048 msedge.exe                          WYSE\501000704            running    2026-02-11 13:10:43       0.00       0.06            28                   40              9.87 MB         91.85 MB        
+
+19108 dllhost.exe                         WYSE\501000704            running    2025-12-11 10:36:03       0.00       0.01            3                    1               1.02 MB         2.87 MB         
+
+19260 O+Connect.exe                       WYSE\501000704            running    2026-01-31 10:01:49       0.00       0.01            25                   21              1.14 MB         32.91 MB        
+
+20512 WidgetService.exe                   WYSE\501000704            running    2026-01-22 18:31:10       0.00       0.02            5                    10              2.67 MB         5.80 MB         
+
+20828 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:48       0.00       0.01            8                    2               1.56 MB         2.43 MB         
+
+21100 msedge.exe                          WYSE\501000704            running    2026-02-11 13:11:28       0.00       0.04            10                   6               6.31 MB         9.66 MB         
+
+21188 Code.exe                            WYSE\501000704            running    2026-02-06 12:30:07       0.00       0.01            8                    23              0.96 MB         44.70 MB        
+
+21204 svchost.exe                         WYSE\501000704            running    2026-01-05 11:26:58       0.00       0.01            3                    2               1.13 MB         2.15 MB         
+
+21752 dllhost.exe                         WYSE\501000704            running    2025-12-15 12:18:13       0.00       0.01            4                    1               1.18 MB         2.98 MB         
+
+22252 ulaa.exe                            WYSE\501000704            running    2026-02-09 15:43:12       0.00       0.71            31                   29              115.61 MB       146.25 MB       
+
+22300 O+Connect.exe                       WYSE\501000704            running    2026-01-31 09:59:21       0.50       0.06            57                   8               9.57 MB         87.66 MB        
+
+22324 msedge.exe                          WYSE\501000704            running    2026-02-11 13:10:44       0.00       0.03            21                   21              4.92 MB         23.84 MB        
+
+22844 conhost.exe                         WYSE\501000704            running    2026-01-31 09:59:24       0.00       0.00            2                    1               0.14 MB         1.17 MB         
+
+23124 dllhost.exe                         WYSE\501000704            running    2025-12-11 10:36:03       0.00       0.01            4                    2               1.06 MB         4.16 MB         
+
+23344 codex.exe                           WYSE\501000704            running    2026-02-09 15:33:26       0.00       0.01            26                   5               1.12 MB         9.13 MB         
+
+23924 chrome.exe                          WYSE\501000704            running    2026-02-13 15:28:12       0.00       0.17            32                   48              27.84 MB        159.66 MB       
+
+24480 Code.exe                            WYSE\501000704            running    2025-12-24 10:20:58       0.20       0.02            8                    9               3.23 MB         417.93 MB       
+
+24816 cmd.exe                             WYSE\501000704            running    2025-12-24 10:21:03       0.00       0.00            1                    1               0.13 MB         2.77 MB         
+
+25092 Code.exe                            WYSE\501000704            running    2026-02-03 10:29:57       0.00       0.02            19                   39              2.86 MB         25.89 MB        
+
+25240 msedgewebview2.exe                  WYSE\501000704            running    2026-02-05 18:31:44       0.00       0.09            54                   94              15.21 MB        44.27 MB        
+
+25564 conhost.exe                         WYSE\501000704            running    2025-12-23 14:37:25       0.00       0.00            2                    1               0.02 MB         1.23 MB         
+
+26476 studio64.exe                        WYSE\501000704            running    2026-01-12 12:04:34       1.00       4.56            143                  1041            740.10 MB       2872.22 MB      
+
+26772 aimgr.exe                           WYSE\501000704            running    2026-02-02 12:31:03       0.00       0.00            3                    2               0.51 MB         4.49 MB         
+
+26776 python3.13.exe                      WYSE\501000704            running    2026-02-13 17:06:54       83.90      0.07            5                    2               10.76 MB        17.28 MB        
+
+26800 msedge.exe                          WYSE\501000704            running    2026-02-13 16:55:32       0.00       0.05            15                   8               8.78 MB         19.11 MB        
+
+26992 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 15:31:23       0.00       0.00            32                   28              0.52 MB         356.38 MB       
+
+27056 conhost.exe                         WYSE\501000704            running    2025-12-24 10:21:03       0.00       0.00            5                    1               0.10 MB         1.46 MB         
+
+27852 conhost.exe                         WYSE\501000704            running    2025-12-23 14:32:32       0.00       0.00            5                    1               0.10 MB         1.48 MB         
+
+28952 ShellExperienceHost.exe             WYSE\501000704            stopped    2026-02-04 14:54:07       0.00       0.00            29                   12              0.02 MB         65.48 MB        
+
+29132 chrome.exe                          WYSE\501000704            running    2026-02-13 16:55:38       0.00       0.32            31                   30              52.19 MB        62.30 MB        
+
+29192 cmd.exe                             WYSE\501000704            running    2025-12-23 14:37:25       0.00       0.00            1                    13              0.12 MB         2.50 MB         
+
+29384 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 13:46:01       0.00       0.09            23                   19              15.30 MB        14.74 MB        
+
+30292 chrome.exe                          WYSE\501000704            running    2026-02-12 13:30:17       0.00       0.09            35                   55              14.94 MB        284.59 MB       
+
+30696 msedgewebview2.exe                  WYSE\501000704            running    2026-02-05 18:31:45       0.00       0.00            18                   19              0.49 MB         13.10 MB        
+
+31248 Code.exe                            WYSE\501000704            running    2026-02-09 15:33:22       0.10       2.24            27                   27              362.92 MB       672.80 MB       
+
+31304 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:13       0.00       0.01            12                   13              1.35 MB         85.69 MB        
+
+31864 CodeSetup-stable-94e8ae2b28cb5cc932b86e1070569c4463565c37.tmp WYSE\501000704            running    2026-01-09 05:50:29       0.00       0.00            1                    8               0.53 MB         25.41 MB        
+
+32608 GitHubDesktop.exe                   WYSE\501000704            running    2026-02-13 16:55:23       0.00       0.10            39                   4               16.28 MB        39.42 MB        
+
+33056 MoNotificationUx.exe                WYSE\501000704            running    2026-02-13 06:45:09       0.00       0.00            1                    1               0.12 MB         2.30 MB         
+
+33352 msedge.exe                          WYSE\501000704            running    2026-02-09 18:16:13       0.00       0.02            16                   21              3.74 MB         21.49 MB        
+
+33612 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 15:31:23       0.00       0.00            20                   19              0.60 MB         15.76 MB        
+
+34092 GitHubDesktop.exe                   WYSE\501000704            running    2026-02-13 16:55:23       0.20       0.21            43                   45              33.50 MB        74.98 MB        
+
+34452 msedge.exe                          WYSE\501000704            running    2026-02-12 14:43:08       0.00       0.03            12                   10              5.25 MB         21.91 MB        
+
+34560 Code.exe                            WYSE\501000704            running    2025-12-23 09:49:03       0.00       0.02            7                    2               2.60 MB         10.54 MB        
+
+34568 GitHubDesktop.exe                   WYSE\501000704            running    2026-02-13 16:55:24       0.00       0.25            38                   33              40.18 MB        100.75 MB       
+
+34704 Code.exe                            WYSE\501000704            running    2025-12-23 14:32:12       0.00       1.06            31                   69              171.64 MB       360.11 MB       
+
+35656 splwow64.exe                        WYSE\501000704            running    2026-02-04 10:31:15       0.00       0.00            5                    4               0.61 MB         8.82 MB         
+
+35740 Code.exe                            WYSE\501000704            running    2025-12-23 14:32:15       0.00       0.01            8                    8               1.58 MB         25.75 MB        
+
+35764 powershell.exe                      WYSE\501000704            running    2025-12-24 10:20:57       0.00       0.01            9                    6               1.05 MB         62.05 MB        
+
+35788 O+Connect.exe                       WYSE\501000704            running    2026-01-31 09:59:21       0.00       0.00            6                    1               0.04 MB         11.33 MB        
+
+35856 msedge.exe                          WYSE\501000704            running    2026-02-11 13:10:45       0.20       0.45            25                   8               73.12 MB        88.02 MB        
+
+36584 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:08       0.00       0.01            8                    8               2.41 MB         34.32 MB        
+
+36668 codex.exe                           WYSE\501000704            running    2026-02-03 10:30:16       0.00       0.00            24                   14              0.59 MB         8.23 MB         
+
+36684 Code.exe                            WYSE\501000704            running    2026-02-09 15:33:26       0.00       0.06            8                    5               9.55 MB         28.51 MB        
+
+37068 msedge.exe                          WYSE\501000704            running    2026-02-09 18:16:03       0.00       0.01            8                    1               1.86 MB         2.54 MB         
+
+37252 svchost.exe                         WYSE\501000704            running    2025-12-16 14:48:26       0.00       0.01            4                    2               1.14 MB         2.17 MB         
+
+37556 chrome.exe                          WYSE\501000704            running    2026-02-13 12:23:26       0.00       0.08            33                   52              13.79 MB        149.07 MB       
+
+37828 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:48       0.00       0.03            11                   27              5.66 MB         11.61 MB        
+
+38064 ai.exe                              WYSE\501000704            running    2026-02-02 12:31:03       0.00       0.00            19                   3               0.26 MB         22.34 MB        
+
+38352 msedgewebview2.exe                  WYSE\501000704            running    2026-02-11 05:45:46       0.00       0.12            22                   19              20.11 MB        15.66 MB        
+
+38464 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:48       0.30       0.28            33                   23              44.82 MB        40.00 MB        
+
+38524 chrome.exe                          WYSE\501000704            running    2026-02-11 11:03:51       0.10       0.47            33                   38              76.13 MB        125.99 MB       
+
+39144 msedge.exe                          WYSE\501000704            running    2026-02-11 13:10:43       0.00       0.04            30                   28              6.18 MB         73.94 MB        
+
+39568 Code.exe                            WYSE\501000704            running    2025-12-23 14:32:16       0.00       0.01            13                   11              1.18 MB         66.39 MB        
+
+39768 msedge.exe                          WYSE\501000704            running    2026-02-11 16:12:00       0.00       0.05            34                   53              7.40 MB         177.98 MB       
+
+39932 msedgewebview2.exe                  WYSE\501000704            running    2026-02-05 18:31:45       0.00       0.00            31                   28              0.53 MB         88.50 MB        
+
+40360 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:48       1.60       1.38            49                   406             224.24 MB       227.14 MB       
+
+40592 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 13:46:01       0.00       0.07            42                   4               11.34 MB        108.02 MB       
+
+40852 chrome.exe                          WYSE\501000704            running    2026-02-11 12:41:48       0.00       0.08            33                   52              12.43 MB        196.43 MB       
+
+41344 fsnotifier.exe                      WYSE\501000704            running    2026-01-12 12:04:37       0.00       0.00            3                    0               0.28 MB         0.85 MB         
+
+41732 Code.exe                            WYSE\501000704            running    2026-02-13 17:08:14       0.10       0.58            8                    18              94.50 MB        48.47 MB        
+
+42324 Code.exe                            WYSE\501000704            running    2025-12-23 14:32:26       0.00       0.01            8                    14              1.68 MB         56.41 MB        
+
+43208 pet.exe                             WYSE\501000704            running    2026-02-09 15:33:49       0.00       0.02            1                    12              2.90 MB         3.27 MB         
+
+43320 Code.exe                            WYSE\501000704            running    2025-12-23 09:49:03       0.00       0.09            22                   17              14.19 MB        19.26 MB        
+
+43984 RuntimeBroker.exe                   WYSE\501000704            running    2026-02-13 15:31:22       0.00       0.01            3                    0               2.08 MB         3.02 MB         
+
+44376 CredentialEnrollmentManager.exe     WYSE\501000704            running    2026-02-07 11:41:25       0.00       0.01            4                    2               1.07 MB         3.04 MB         
+
+44568 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:50       0.00       0.11            31                   30              18.12 MB        42.88 MB        
+
+44748 RuntimeBroker.exe                   WYSE\501000704            running    2026-02-09 15:10:42       0.00       0.02            2                    4               2.58 MB         4.26 MB         
+
+44836 Code.exe                            WYSE\501000704            running    2025-12-23 09:49:05       1.10       0.35            45                   9               56.94 MB        205.56 MB       
+
+45620 codex.exe                           WYSE\501000704            running    2026-02-03 10:30:11       0.00       0.00            24                   13              0.61 MB         8.29 MB         
+
+46372 ulaa.exe                            WYSE\501000704            running    2026-02-13 13:02:00       0.00       0.01            14                   8               1.90 MB         13.92 MB        
+
+46396 Code.exe                            WYSE\501000704            running    2026-01-30 14:53:01       0.00       0.06            15                   19              10.34 MB        391.68 MB       
+
+47900 powershell.exe                      WYSE\501000704            running    2026-01-30 14:53:00       0.00       0.01            9                    6               1.05 MB         62.58 MB        
+
+47948 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 15:31:23       0.00       0.00            7                    1               0.79 MB         2.42 MB         
+
+48676 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 13:46:01       0.00       0.04            24                   21              7.04 MB         52.20 MB        
+
+48732 msedge.exe                          WYSE\501000704            running    2026-02-11 13:10:44       0.00       0.05            41                   38              7.83 MB         272.64 MB       
+
+48760 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 13:46:01       0.60       1.97            36                   54              318.89 MB       385.92 MB       
+
+49488 GitHubDesktop.exe                   WYSE\501000704            running    2026-02-13 16:55:24       0.00       0.10            19                   15              15.75 MB        13.73 MB        
+
+49764 msedge.exe                          WYSE\501000704            running    2026-02-09 18:16:03       0.00       0.12            45                   4               19.45 MB        191.45 MB       
+
+50000 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:05       4.10       1.71            31                   69              276.63 MB       718.36 MB       
+
+50084 msedgewebview2.exe                  WYSE\501000704            running    2026-02-05 18:31:44       0.00       0.00            7                    1               0.52 MB         2.46 MB         
+
+50272 EXCEL.EXE                           WYSE\501000704            running    2026-02-06 11:06:31       0.00       0.06            79                   22              10.54 MB        125.59 MB       
+
+50280 RuntimeBroker.exe                   WYSE\501000704            running    2026-02-13 13:46:02       0.00       0.01            2                    0               1.84 MB         2.65 MB         
+
+50788 chrome.exe                          WYSE\501000704            running    2026-02-13 15:28:24       0.00       0.02            17                   23              3.65 MB         19.21 MB        
+
+50856 conhost.exe                         WYSE\501000704            running    2026-01-12 12:04:37       0.00       0.00            2                    1               0.03 MB         1.18 MB         
+
+50932 node.exe                            WYSE\501000704            running    2026-02-02 15:40:53       0.00       0.00            13                   18              0.02 MB         68.57 MB        
+
+51528 chrome.exe                          WYSE\501000704            running    2026-02-13 16:15:01       0.00       0.14            22                   10              23.46 MB        40.62 MB        
+
+51844 ulaa.exe                            WYSE\501000704            running    2026-02-12 16:32:23       0.00       0.53            38                   53              85.40 MB        255.76 MB       
+
+52016 msedgewebview2.exe                  WYSE\501000704            running    2026-02-11 05:45:46       0.00       0.07            46                   4               10.68 MB        83.68 MB        
+
+52196 M365Copilot.exe                     WYSE\501000704            running    2026-02-13 15:31:21       0.00       0.07            46                   22              10.85 MB        48.32 MB        
+
+52264 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:54       0.00       0.01            10                   8               2.35 MB         10.25 MB        
+
+52476 msedge.exe                          WYSE\501000704            running    2026-02-12 14:44:09       0.00       0.21            40                   43              33.34 MB        204.50 MB       
+
+53388 AppVShNotify.exe                    WYSE\501000704            running    2026-01-31 13:43:14       0.00       0.00            1                    0               0.03 MB         2.05 MB         
+
+53752 msedgewebview2.exe                  WYSE\501000704            running    2026-02-11 05:45:46       0.00       0.04            11                   19              5.70 MB         10.95 MB        
+
+54380 chrome.exe                          WYSE\501000704            running    2026-02-13 15:28:20       0.10       0.13            31                   36              20.62 MB        182.38 MB       
+
+54888 ulaa.exe                            WYSE\501000704            running    2026-02-12 23:38:49       0.00       0.05            20                   8               8.00 MB         25.58 MB        
+
+55204 RuntimeBroker.exe                   WYSE\501000704            running    2026-02-04 14:54:08       0.00       0.02            4                    7               2.70 MB         6.71 MB         
+
+55452 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 15:46:35       0.00       0.00            17                   21              0.52 MB         25.32 MB        
+
+55716 PhoneExperienceHost.exe             WYSE\501000704            running    2026-02-13 11:44:12       0.40       0.15            22                   237             24.27 MB        101.96 MB       
+
+56440 conhost.exe                         WYSE\501000704            running    2026-02-09 15:33:49       0.00       0.00            2                    1               0.18 MB         1.17 MB         
+
+56680 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 13:46:01       0.00       0.03            10                   20              5.13 MB         12.02 MB        
+
+56704 mstsc.exe                           WYSE\501000704            running    2026-02-11 12:51:57       0.10       0.80            65                   24              130.56 MB       245.30 MB       
+
+57132 Code.exe                            WYSE\501000704            running    2026-02-09 15:33:21       4.70       1.79            33                   67              289.87 MB       327.94 MB       
+
+57332 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 15:31:23       0.00       0.09            49                   100             14.96 MB        49.46 MB        
+
+57516 msedge.exe                          WYSE\501000704            running    2026-02-09 18:16:03       0.10       0.19            25                   20              30.46 MB        29.38 MB        
+
+57796 ulaa.exe                            WYSE\501000704            running    2026-02-10 09:59:21       0.10       0.28            31                   32              45.85 MB        65.68 MB        
+
+58332 cmd.exe                             WYSE\501000704            running    2026-02-02 15:40:52       0.00       0.00            1                    16              0.03 MB         2.54 MB         
+
+59064 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:48       3.30       1.08            42                   3               175.56 MB       436.36 MB       
+
+59548 Code.exe                            WYSE\501000704            running    2025-12-31 14:34:17       0.00       0.01            12                   15              1.66 MB         69.94 MB        
+
+59888 RuntimeBroker.exe                   WYSE\501000704            running    2026-02-13 11:44:15       0.00       0.01            3                    0               2.09 MB         3.07 MB         
+
+61240 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:08       0.10       0.02            8                    8               3.48 MB         791.34 MB       
+
+61388 msedgewebview2.exe                  WYSE\501000704            running    2026-02-11 05:45:45       0.00       0.01            7                    1               0.82 MB         2.43 MB         
+
+61676 ulaa.exe                            WYSE\501000704            running    2026-02-12 14:40:43       0.00       0.07            32                   38              11.84 MB        48.73 MB        
+
+62436 OneDrive.exe                        WYSE\501000704            running    2026-02-12 20:15:31       0.00       0.21            35                   48              33.99 MB        74.07 MB        
+
+62520 Code.exe                            WYSE\501000704            running    2026-02-06 12:30:29       0.00       0.01            8                    17              0.99 MB         47.50 MB        
+
+63156 ulaa.exe                            WYSE\501000704            running    2026-02-12 14:40:34       0.00       0.10            34                   32              16.30 MB        104.94 MB       
+
+63204 ulaa.exe                            WYSE\501000704            running    2026-02-10 09:59:21       0.00       0.01            15                   21              2.36 MB         19.45 MB        
+
+63560 Code.exe                            WYSE\501000704            running    2026-02-06 12:30:07       0.00       0.00            10                   18              0.04 MB         175.03 MB       
+
+63616 powershell.exe                      WYSE\501000704            running    2026-01-30 14:34:07       0.00       0.01            9                    6               1.09 MB         61.95 MB        
+
+63624 RuntimeBroker.exe                   WYSE\501000704            running    2026-02-13 01:19:19       0.00       0.01            3                    0               1.53 MB         2.43 MB         
+
+63672 mstsc.exe                           WYSE\501000704            running    2026-02-12 17:25:16       0.00       0.03            42                   14              5.02 MB         263.83 MB       
+
+64152 msedge.exe                          WYSE\501000704            running    2026-02-13 13:02:36       0.00       0.06            34                   28              10.04 MB        76.48 MB        
+
+64240 msedgewebview2.exe                  WYSE\501000704            running    2026-02-05 18:31:45       0.00       0.00            9                    18              0.51 MB         9.72 MB         
+
+64820 pet.exe                             WYSE\501000704            running    2026-01-30 14:53:00       0.00       0.00            1                    12              0.03 MB         3.43 MB         
+
+65240 olk.exe                             WYSE\501000704            running    2026-02-13 13:46:00       0.10       0.14            36                   17              22.25 MB        15.18 MB        
+
+65560 cmd.exe                             WYSE\501000704            running    2026-02-02 15:41:07       0.00       0.00            1                    17              0.03 MB         2.54 MB         
+
+65988 Widgets.exe                         WYSE\501000704            running    2026-02-05 18:31:44       0.00       0.07            14                   18              11.67 MB        17.23 MB        
+
+66164 dllhost.exe                         WYSE\501000704            running    2026-01-15 12:24:48       0.00       0.02            4                    2               2.60 MB         3.86 MB         
+
+66796 ulaa.exe                            WYSE\501000704            running    2026-02-09 12:47:13       0.00       0.21            41                   3               33.36 MB        121.82 MB       
+
+68320 conhost.exe                         WYSE\501000704            running    2026-02-09 15:33:49       0.00       0.00            5                    1               0.03 MB         1.36 MB         
+
+68324 ms-teams.exe                        WYSE\501000704            running    2026-02-11 05:45:51       0.10       0.18            117                  27              28.41 MB        123.90 MB       
+
+68592 msedgewebview2.exe                  WYSE\501000704            running    2026-02-11 05:45:54       0.00       0.01            10                   8               1.00 MB         9.05 MB         
+
+69200 O+Connect.exe                       WYSE\501000704            running    2026-01-31 09:59:20       0.30       0.31            161                  74              50.54 MB        167.91 MB       
+
+69996 Code.exe                            WYSE\501000704            running    2026-02-06 12:30:07       0.60       0.04            14                   23              6.90 MB         260.21 MB       
+
+70756 Code.exe                            WYSE\501000704            running    2026-02-09 15:33:50       0.00       1.40            17                   18              226.48 MB       522.95 MB       
+
+72056 conhost.exe                         WYSE\501000704            running    2026-02-03 10:30:13       0.00       0.00            2                    1               0.17 MB         1.18 MB         
+
+72300 ulaa.exe                            WYSE\501000704            running    2026-02-09 12:47:13       0.10       0.18            21                   41              29.03 MB        27.50 MB        
+
+72424 RuntimeBroker.exe                   WYSE\501000704            running    2026-01-30 18:19:20       0.00       0.01            3                    0               1.41 MB         2.14 MB         
+
+74764 mstsc.exe                           WYSE\501000704            running    2026-02-13 15:26:28       0.20       0.11            59                   13              17.77 MB        195.41 MB       
+
+75808 O+Connect.exe                       WYSE\501000704            running    2026-01-31 09:59:21       0.00       0.02            14                   15              2.96 MB         14.34 MB        
+
+76784 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:54       0.00       0.03            11                   9               4.81 MB         22.67 MB        
+
+77988 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:06       0.00       0.05            27                   8               7.44 MB         88.22 MB        
+
+78028 oplus_remote_ui.exe                 WYSE\501000704            running    2026-01-31 09:59:24       0.00       0.00            42                   2               0.03 MB         7.21 MB         
+
+78248 CodeSetup-stable-94e8ae2b28cb5cc932b86e1070569c4463565c37.exe WYSE\501000704            running    2026-01-09 05:50:29       0.00       0.00            1                    28              0.05 MB         7.23 MB         
+
+78412 SystemSettings.exe                  WYSE\501000704            running    2026-02-13 11:19:52       0.00       0.24            14                   19              39.15 MB        50.93 MB        
+
+78652 prevhost.exe                        WYSE\501000704            running    2026-02-13 10:40:36       0.00       0.00            1                    0               0.04 MB         1.57 MB         
+
+79784 ulaa.exe                            WYSE\501000704            running    2026-02-12 14:40:32       0.00       0.17            37                   34              26.86 MB        287.21 MB       
+
+81464 msedge.exe                          WYSE\501000704            running    2026-02-11 13:10:57       0.00       0.02            19                   21              3.16 MB         23.21 MB        
+
+81876 Code.exe                            WYSE\501000704            running    2026-02-06 12:30:07       0.00       0.00            9                    18              0.03 MB         71.16 MB        
+
+82000 ms-teams.exe                        WYSE\501000704            running    2026-01-30 18:19:19       0.10       0.24            89                   27              38.64 MB        67.33 MB        
+
+82976 powershell.exe                      WYSE\501000704            running    2026-02-09 15:33:49       0.00       0.01            9                    6               1.12 MB         59.46 MB        
+
+83192 ulaa.exe                            WYSE\501000704            running    2026-02-12 14:40:32       0.00       0.01            15                   21              2.09 MB         17.53 MB        
+
+83236 conhost.exe                         WYSE\501000704            running    2026-02-09 15:33:26       0.00       0.00            2                    1               0.02 MB         1.18 MB         
+
+83384 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 13:46:00       0.30       0.31            50                   161             49.51 MB        89.07 MB        
+
+84192 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:08       0.00       0.01            12                   5               1.42 MB         92.79 MB        
+
+84232 YourPhoneAppProxy.exe               WYSE\501000704            running    2026-02-13 11:44:15       0.00       0.06            13                   76              9.70 MB         39.22 MB        
+
+86388 msedge.exe                          WYSE\501000704            running    2026-02-12 16:29:22       0.00       0.04            37                   33              7.23 MB         189.70 MB       
+
+86840 Code.exe                            WYSE\501000704            running    2026-02-13 17:08:13       0.00       0.22            9                    18              36.48 MB        25.98 MB        
+
+87584 WINWORD.EXE                         WYSE\501000704            running    2026-02-02 12:31:02       0.00       0.16            74                   53              26.16 MB        119.80 MB       
+
+88336 conhost.exe                         WYSE\501000704            running    2026-02-09 15:33:24       0.10       0.01            5                    1               1.36 MB         1.40 MB         
+
+88672 esbuild.exe                         WYSE\501000704            running    2026-02-02 15:41:29       0.00       0.17            24                   16              26.98 MB        67.30 MB        
+
+88976 WindowsPackageManagerServer.exe     WYSE\501000704            running    2026-01-27 10:12:19       0.00       0.03            7                    13              4.19 MB         9.41 MB         
+
+89928 O+Connect.exe                       WYSE\501000704            running    2026-01-31 09:59:21       0.00       0.03            35                   26              4.70 MB         116.96 MB       
+
+90120 msedge.exe                          WYSE\501000704            running    2026-02-11 13:10:52       0.00       0.02            23                   21              2.93 MB         27.37 MB        
+
+90444 Code.exe                            WYSE\501000704            running    2026-02-06 12:30:28       0.00       0.00            10                   17              0.03 MB         179.44 MB       
+
+90464 pwahelper.exe                       WYSE\501000704            running    2026-02-12 14:44:39       0.00       0.00            4                    0               0.48 MB         3.02 MB         
+
+90600 ulaa.exe                            WYSE\501000704            running    2026-02-09 12:47:12       0.00       0.01            6                    1               1.55 MB         2.12 MB         
+
+90704 dllhost.exe                         WYSE\501000704            running    2026-02-13 11:19:41       0.00       0.01            4                    1               2.02 MB         2.68 MB         
+
+90816 msedgewebview2.exe                  WYSE\501000704            running    2026-02-11 05:45:46       1.60       0.31            41                   32              50.75 MB        1048.66 MB      
+
+91068 EXCEL.EXE                           WYSE\501000704            running    2026-02-04 10:30:13       0.00       0.17            96                   45              28.06 MB        203.74 MB       
+
+91112 ulaa.exe                            WYSE\501000704            running    2026-02-09 12:47:30       0.00       0.03            11                   9               4.68 MB         22.55 MB        
+
+91380 CrossDeviceService.exe              WYSE\501000704            running    2026-02-13 01:19:17       0.30       0.07            23                   177             10.89 MB        42.11 MB        
+
+91504 dllhost.exe                         WYSE\501000704            running    2026-01-15 12:24:48       0.00       0.01            5                    1               2.14 MB         3.18 MB         
+
+91580 RuntimeBroker.exe                   WYSE\501000704            running    2026-02-11 13:11:28       0.00       0.01            3                    2               2.29 MB         10.95 MB        
+
+91784 conhost.exe                         WYSE\501000704            running    2026-02-03 10:30:11       0.00       0.00            2                    1               0.02 MB         1.25 MB         
+
+92352 node.exe                            WYSE\501000704            running    2026-01-24 12:08:10       0.00       0.02            12                   1               3.30 MB         1323.32 MB      
+
+92392 node.exe                            WYSE\501000704            running    2026-02-02 15:41:07       0.00       0.06            16                   18              9.02 MB         1110.64 MB      
+
+93284 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:50       0.00       0.04            23                   23              7.21 MB         48.77 MB        
+
+93364 Code.exe                            WYSE\501000704            running    2026-02-03 17:48:47       0.00       0.01            12                   22              1.32 MB         133.57 MB       
+
+93376 ulaa.exe                            WYSE\501000704            running    2026-02-09 15:43:11       0.10       0.21            31                   32              33.30 MB        52.00 MB        
+
+93548 msedge.exe                          WYSE\501000704            running    2026-02-09 18:16:03       0.00       0.02            11                   20              3.73 MB         11.19 MB        
+
+93852 Code.exe                            WYSE\501000704            running    2026-02-06 12:30:07       0.00       0.01            8                    18              0.98 MB         44.86 MB        
+
+94144 backgroundTaskHost.exe              WYSE\501000704            running    2026-02-09 15:10:41       0.00       0.08            8                    6               12.90 MB        35.66 MB        
+
+94648 msedge.exe                          WYSE\501000704            running    2026-02-13 12:28:17       0.00       0.03            34                   50              5.07 MB         203.09 MB       
+
+94664 conhost.exe                         WYSE\501000704            running    2026-01-30 14:53:00       0.00       0.00            2                    1               0.02 MB         1.18 MB         
+
+95064 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:50       0.00       0.16            31                   30              25.78 MB        27.21 MB        
+
+95620 conhost.exe                         WYSE\501000704            running    2026-02-02 15:40:52       0.00       0.00            2                    1               0.02 MB         1.20 MB         
+
+95884 conhost.exe                         WYSE\501000704            running    2026-02-03 10:30:16       0.00       0.00            2                    1               0.02 MB         1.21 MB         
+
+96100 ulaa.exe                            WYSE\501000704            running    2026-02-12 14:40:32       0.10       0.23            31                   32              37.13 MB        59.21 MB        
+
+96344 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 13:46:00       0.00       0.00            7                    1               0.54 MB         2.43 MB         
+
+97416 msedgewebview2.exe                  WYSE\501000704            running    2026-02-05 18:31:45       0.00       0.02            30                   4               3.45 MB         33.19 MB        
+
+97544 ulaa.exe                            WYSE\501000704            running    2026-02-09 12:47:22       0.00       0.01            10                   7               2.32 MB         9.63 MB         
+
+98896 ulaa.exe                            WYSE\501000704            running    2026-02-09 12:47:13       0.00       0.02            12                   44              3.77 MB         10.23 MB        
+
+99872 conhost.exe                         WYSE\501000704            running    2026-01-30 14:53:40       0.00       0.00            5                    1               0.03 MB         1.49 MB         
+
+100160 dllhost.exe                         WYSE\501000704            running    2026-02-09 12:32:06       0.00       0.02            2                    4               2.60 MB         6.65 MB         
+
+100760 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 15:31:23       0.00       0.02            41                   4               3.70 MB         48.82 MB        
+
+101208 cmd.exe                             WYSE\501000704            running    2026-01-24 12:08:10       0.00       0.00            1                    1               0.03 MB         2.55 MB         
+
+102152 powershell.exe                      WYSE\501000704            running    2026-02-13 17:07:35       0.00       0.25            9                    7               40.36 MB        64.69 MB        
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SUMMARY
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TOTAL PROCESSES : 273
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TOP 10 CPU CONSUMING PROCESS
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0     System Idle Process                 NT AUTHORITY\SYSTEM       running    1970-01-01 05:30:00       1757.40    0.00            60                   0               0.01 MB         0.06 MB         
+
+15636 python3.13.exe                      WYSE\501000704            running    2026-02-13 17:15:25       84.40      1.79            6                    2               290.23 MB       271.88 MB       
+
+26776 python3.13.exe                      WYSE\501000704            running    2026-02-13 17:06:54       83.90      0.07            5                    2               10.76 MB        17.28 MB        
+
+57132 Code.exe                            WYSE\501000704            running    2026-02-09 15:33:21       4.70       1.79            33                   67              289.87 MB       327.94 MB       
+
+50000 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:05       4.10       1.71            31                   69              276.63 MB       718.36 MB       
+
+4     System                              NT AUTHORITY\SYSTEM       running    1970-01-01 05:30:00       3.90       0.02            372                  0               3.84 MB         0.05 MB         
+
+59064 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:48       3.30       1.08            42                   3               175.56 MB       436.36 MB       
+
+40360 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:48       1.60       1.38            49                   406             224.24 MB       227.14 MB       
+
+90816 msedgewebview2.exe                  WYSE\501000704            running    2026-02-11 05:45:46       1.60       0.31            41                   32              50.75 MB        1048.66 MB      
+
+44836 Code.exe                            WYSE\501000704            running    2025-12-23 09:49:05       1.10       0.35            45                   9               56.94 MB        205.56 MB       
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TOP 10 MEMORY CONSUMING PROCESS
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+26476 studio64.exe                        WYSE\501000704            running    2026-01-12 12:04:34       1.00       4.56            143                  1041            740.10 MB       2872.22 MB      
+
+31248 Code.exe                            WYSE\501000704            running    2026-02-09 15:33:22       0.10       2.24            27                   27              362.92 MB       672.80 MB       
+
+48760 msedgewebview2.exe                  WYSE\501000704            running    2026-02-13 13:46:01       0.60       1.97            36                   54              318.89 MB       385.92 MB       
+
+10004 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:06       0.30       1.96            29                   33              317.56 MB       746.21 MB       
+
+18364 chrome.exe                          WYSE\501000704            running    2026-02-13 16:55:58       0.70       1.88            39                   51              304.22 MB       296.07 MB       
+
+15636 python3.13.exe                      WYSE\501000704            running    2026-02-13 17:15:25       84.40      1.79            6                    2               290.23 MB       271.88 MB       
+
+57132 Code.exe                            WYSE\501000704            running    2026-02-09 15:33:21       4.70       1.79            33                   67              289.87 MB       327.94 MB       
+
+50000 Code.exe                            WYSE\501000704            running    2026-01-30 14:34:05       4.10       1.71            31                   69              276.63 MB       718.36 MB       
+
+70756 Code.exe                            WYSE\501000704            running    2026-02-09 15:33:50       0.00       1.40            17                   18              226.48 MB       522.95 MB       
+
+40360 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:48       1.60       1.38            49                   406             224.24 MB       227.14 MB       
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TOP 10 THREAD CONSUMING PROCESS
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4     System                              NT AUTHORITY\SYSTEM       running    1970-01-01 05:30:00       3.90       0.02            372                  0               3.84 MB         0.05 MB         
+
+69200 O+Connect.exe                       WYSE\501000704            running    2026-01-31 09:59:20       0.30       0.31            161                  74              50.54 MB        167.91 MB       
+
+26476 studio64.exe                        WYSE\501000704            running    2026-01-12 12:04:34       1.00       4.56            143                  1041            740.10 MB       2872.22 MB      
+
+68324 ms-teams.exe                        WYSE\501000704            running    2026-02-11 05:45:51       0.10       0.18            117                  27              28.41 MB        123.90 MB       
+
+91068 EXCEL.EXE                           WYSE\501000704            running    2026-02-04 10:30:13       0.00       0.17            96                   45              28.06 MB        203.74 MB       
+
+82000 ms-teams.exe                        WYSE\501000704            running    2026-01-30 18:19:19       0.10       0.24            89                   27              38.64 MB        67.33 MB        
+
+50272 EXCEL.EXE                           WYSE\501000704            running    2026-02-06 11:06:31       0.00       0.06            79                   22              10.54 MB        125.59 MB       
+
+87584 WINWORD.EXE                         WYSE\501000704            running    2026-02-02 12:31:02       0.00       0.16            74                   53              26.16 MB        119.80 MB       
+
+56704 mstsc.exe                           WYSE\501000704            running    2026-02-11 12:51:57       0.10       0.80            65                   24              130.56 MB       245.30 MB       
+
+0     System Idle Process                 NT AUTHORITY\SYSTEM       running    1970-01-01 05:30:00       1757.40    0.00            60                   0               0.01 MB         0.06 MB         
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TOP 10 OPEN FILES PROCESS
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+26476 studio64.exe                        WYSE\501000704            running    2026-01-12 12:04:34       1.00       4.56            143                  1041            740.10 MB       2872.22 MB      
+
+40360 chrome.exe                          WYSE\501000704            running    2026-02-11 10:11:48       1.60       1.38            49                   406             224.24 MB       227.14 MB       
+
