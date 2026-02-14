@@ -50,7 +50,7 @@ def main():
     sender_email = "aniketdhole.test@gmail.com"
 
     # App password generated from Google account
-    app_password = "zsxdkkbrmszoytnh"
+    app_password = "XXXXXXXXXXXXXX"
 
     # Your second email for testing
     receiver_email = "aniketdhole1004@gmail.com"
